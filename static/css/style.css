@@ -1,0 +1,28 @@
+.clear1{
+    position:absolute;
+    left:-10000px;
+    top:-10000px;
+    visibility:hidden;
+}
+
+.imagesize{
+    width: 100px;
+    height: 100px;
+}
+
+.divhide2{
+    display:none;
+}
+
+#message{
+    margin-top:20px;
+}
+
+.button-margin1{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+#button-margin2{
+    margin-top:5px;
+}
